@@ -7,6 +7,7 @@ int main() {
 	setlocale(LC_ALL, "Russian");
 	int n, m;
 	int sum;
+	std::cout << " Hello World! \n\n";
 	/*
 	//Сортировка половины массива
 	std::cout<< "задача 1 \n Изначальный массив \n";
@@ -74,7 +75,7 @@ int main() {
 		else
 			std::cout << i + 1 << ". " << arr3[i] << '\n';
 	}
-	std::cout << " \n\n";
+	std::cout << " \n\n\n\n";
 
 
 
